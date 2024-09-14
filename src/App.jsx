@@ -6,6 +6,7 @@ import Contact from "./pages/Contact";
 import Product from "./pages/Product";
 import Cart from "./pages/Cart";
 import Login from "./pages/Login";
+import Collection from "./pages/Collection";
 import PlaceOrder from "./pages/PlaceOrder";
 import Orders from "./pages/Orders";
 import Navbar from "./components/Navbar";
